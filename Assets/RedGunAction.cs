@@ -6,14 +6,14 @@ public class RedGunAction : MonoBehaviour
     public float range = 100f;
     public float impactForce = 50f;
 
-    public GameObject gun;
+    public GameObject car;
     public ParticleSystem flash;
     public GameObject impactEffect;
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (Input.GetButtonDown("Fire2"))
+        if (Input.GetButtonDown("Fire1"))
         {
             Shoot();
         }
@@ -24,12 +24,13 @@ public class RedGunAction : MonoBehaviour
         flash.Play();
 
         RaycastHit hit;
-        if (Physics.Raycast(gun.transform.position, gun.transform.forward, out hit, range))
+        if (Physics.Raycast(car.transform.position, car.transform.forward, out hit, range))
         {
             RedCarTarget target = hit.transform.GetComponent<RedCarTarget>();
             if (target != null)
             {
                 target.TakeDamage(damage);
+                Debug.Log("REDDDDDDSHNORRRR");
             }
 
             if (hit.rigidbody != null)
