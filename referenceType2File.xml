@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>a1438b1c486551e409e97d699954af03</guid>
+    <fileName>Assets/BlueCarMovement.cs</fileName>
+    <timeStamp>2020-03-29T21:02:07.7864665+03:00</timeStamp>
+    <typeFullName>
+      <string>BlueCarMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e86c6f0289cdce1449450569ae14eac1</guid>
+    <fileName>Assets/CameraController.cs</fileName>
+    <timeStamp>2020-03-30T03:06:07.0450894+03:00</timeStamp>
+    <typeFullName>
+      <string>CameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6d87d2a9399ef74449fe8cd15a9169c3</guid>
+    <fileName>Assets/CarCollision.cs</fileName>
+    <timeStamp>2020-03-29T17:07:45.7872158+03:00</timeStamp>
+    <typeFullName>
+      <string>CarCollision</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>474f8e932488afd4baadec1208a48b7c</guid>
+    <fileName>Assets/CarMovement.cs</fileName>
+    <timeStamp>2020-03-29T15:07:39.4219731+03:00</timeStamp>
+    <typeFullName>
+      <string>CarMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bc70f8d8ab4cf944c8245beb4b94cda9</guid>
+    <fileName>Assets/FollowCar.cs</fileName>
+    <timeStamp>2020-03-29T16:43:23.3609753+03:00</timeStamp>
+    <typeFullName>
+      <string>FollowCar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>483c2e07d0f8ae745b1d8368eb3f64b0</guid>
+    <fileName>Assets/GunAction.cs</fileName>
+    <timeStamp>2020-03-31T22:17:48.5433532+03:00</timeStamp>
+    <typeFullName>
+      <string>GunAction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dfd4380f66458dd42a5353bf335a8525</guid>
+    <fileName>Assets/NewCarController.cs</fileName>
+    <timeStamp>2020-03-30T15:06:16.2087693+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d44abc40c9592a347b1c2474d8a69155</guid>
+    <fileName>Assets/RearWheelDriveRed.cs</fileName>
+    <timeStamp>2020-03-30T18:30:02.9620443+03:00</timeStamp>
+    <typeFullName>
+      <string>RearWheelDriveRed</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9e3fcbb380578042993e563e9b8c1f7</guid>
+    <fileName>Assets/RedCarMovement.cs</fileName>
+    <timeStamp>2020-03-30T00:35:13.9719553+03:00</timeStamp>
+    <typeFullName>
+      <string>RedCarMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>88cf6c050435ebb479f7442453f1bbe6</guid>
+    <fileName>Assets/RedCarTarget.cs</fileName>
+    <timeStamp>2020-03-31T18:02:23.102059+03:00</timeStamp>
+    <typeFullName>
+      <string>RedCarTarget</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2423c86b6a747804e84eccb1551b8708</guid>
+    <fileName>Assets/RedGunAction.cs</fileName>
+    <timeStamp>2020-03-31T22:55:49.571288+03:00</timeStamp>
+    <typeFullName>
+      <string>RedGunAction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3a6d3d363f9348c41a626e7c8ff8e32b</guid>
+    <fileName>Assets/GrassRoadRace/Script/CameraMove.cs</fileName>
+    <timeStamp>2016-01-01T16:09:07+02:00</timeStamp>
+    <typeFullName>
+      <string>CameraMove</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d56b3c7055d81cb44803b5d7db4b65e0</guid>
+    <fileName>Assets/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs</fileName>
+    <timeStamp>2019-03-20T20:11:46+02:00</timeStamp>
+    <typeFullName>
+      <string>CFXEasyEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9c4e89389fa607479b0744ec6611490</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/CFX_AutoStopLoopedEffect.cs</fileName>
+    <timeStamp>2019-03-20T20:11:51+02:00</timeStamp>
+    <typeFullName>
+      <string>CFX_AutoStopLoopedEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27666076fd6e86245aa62dfd9e943d6c</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_RandomDir.cs</fileName>
+    <timeStamp>2019-03-20T20:08:47+02:00</timeStamp>
+    <typeFullName>
+      <string>CFX_Demo_RandomDir</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f71e90e62dfae594490eb4d9b611f930</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_RotateCamera.cs</fileName>
+    <timeStamp>2019-03-20T20:12:15+02:00</timeStamp>
+    <typeFullName>
+      <string>CFX_Demo_RotateCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e42ac40a6fba2e4d94a0070ef45cea1</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_Translate.cs</fileName>
+    <timeStamp>2019-03-20T20:08:41+02:00</timeStamp>
+    <typeFullName>
+      <string>CFX_Demo_Translate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f29cbe1088b10084fb12c7ba8a19f151</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo.cs</fileName>
+    <timeStamp>2019-03-20T20:12:11+02:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cce2a86394e858c419a5d614b1036533</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_DeleteAfterDelay.cs</fileName>
+    <timeStamp>2019-03-20T20:11:36+02:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo_DeleteAfterDelay</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b322923f82d20c4ba75b8657b00331b</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_New.cs</fileName>
+    <timeStamp>2019-03-20T20:09:54+02:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo_New</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>936f98d748ce69c4caf9bc76c7e38a8b</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_RandomDir.cs</fileName>
+    <timeStamp>2019-03-20T20:10:34+02:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo_RandomDir</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e1b171d14b3d5549a9080c5bb8eb2b1</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_Wall.cs</fileName>
+    <timeStamp>2019-03-20T20:10:47+02:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo_Wall</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a20330d93336f2245901dbd9a34b88f8</guid>
+    <fileName>Assets/JMO Assets/WarFX/Editor/CFX_SpawnSystemEditor.cs</fileName>
+    <timeStamp>2019-03-20T20:10:50+02:00</timeStamp>
+    <typeFullName>
+      <string>CFX_SpawnSystemEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6fd2e8874f60266498a388d7229a1bac</guid>
+    <fileName>Assets/JMO Assets/WarFX/Scripts/CFX_AutoDestructShuriken.cs</fileName>
+    <timeStamp>2019-03-20T20:09:59+02:00</timeStamp>
+    <typeFullName>
+      <string>CFX_AutoDestructShuriken</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2255468ea97f384a9ebbb13e497e050</guid>
+    <fileName>Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs</fileName>
+    <timeStamp>2019-03-20T20:11:26+02:00</timeStamp>
+    <typeFullName>
+      <string>CFX_LightIntensityFade</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>395f3a2ded34a634fbd77ee83f9939a7</guid>
+    <fileName>Assets/JMO Assets/WarFX/Scripts/WFX_BulletHoleDecal.cs</fileName>
+    <timeStamp>2019-03-20T20:09:09+02:00</timeStamp>
+    <typeFullName>
+      <string>WFX_BulletHoleDecal</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96d332ab3dbfaaf40bdd9745ff0b19f0</guid>
+    <fileName>Assets/JMO Assets/WarFX/Scripts/WFX_LightFlicker.cs</fileName>
+    <timeStamp>2019-03-20T20:10:36+02:00</timeStamp>
+    <typeFullName>
+      <string>WFX_LightFlicker</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec1683be71e02f548b9023d92d51ac31</guid>
+    <fileName>Assets/JMO Assets/WarFX/Spawn System/CFX_SpawnSystem.cs</fileName>
+    <timeStamp>2019-03-20T20:12:08+02:00</timeStamp>
+    <typeFullName>
+      <string>CFX_SpawnSystem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9294d76c041531244b316c98b4529234</guid>
+    <fileName>Assets/Scripts/CarController.cs</fileName>
+    <timeStamp>2020-03-30T01:41:20.9490436+03:00</timeStamp>
+    <typeFullName>
+      <string>CarController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b7749ac6bd55c85418de645c0fb379cb</guid>
+    <fileName>Assets/Scripts/CarMovement.cs</fileName>
+    <timeStamp>2020-03-29T15:19:16.2368144+03:00</timeStamp>
+    <typeFullName>
+      <string>OldCarMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3ed999e7620f7d43a10748ecfd65b70</guid>
+    <fileName>Assets/Scripts/EasySuspension.cs</fileName>
+    <timeStamp>2020-03-30T15:53:37.9152356+03:00</timeStamp>
+    <typeFullName>
+      <string>EasySuspension</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>764b359ca28f7c44f93df7028cd5b6f6</guid>
+    <fileName>Assets/Scripts/RearWheelDrive.cs</fileName>
+    <timeStamp>2020-03-30T18:30:20.5727773+03:00</timeStamp>
+    <typeFullName>
+      <string>RearWheelDrive</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
