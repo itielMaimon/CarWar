@@ -1782,7 +1782,7 @@ PrefabInstance:
     - target: {fileID: 253771959765685472, guid: eeb9ba9689be80e46a7ed8186eb93806,
         type: 3}
       propertyPath: m_Name
-      value: GunFlare
+      value: RedGunFlare
       objectReference: {fileID: 0}
     - target: {fileID: 253771959765685477, guid: eeb9ba9689be80e46a7ed8186eb93806,
         type: 3}
@@ -5132,7 +5132,7 @@ PrefabInstance:
     - target: {fileID: 253771959765685472, guid: eeb9ba9689be80e46a7ed8186eb93806,
         type: 3}
       propertyPath: m_Name
-      value: Particle System
+      value: BlueGunFlare
       objectReference: {fileID: 0}
     - target: {fileID: 253771959765685479, guid: eeb9ba9689be80e46a7ed8186eb93806,
         type: 3}
