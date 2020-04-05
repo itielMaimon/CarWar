@@ -6,6 +6,8 @@ public class RedCarTarget : MonoBehaviour
 
     public HealthBar healthBar;
 
+    public GameObject destoyedVersion;
+
     void Start()
     {
         healthBar.SetMaxHealth(health);
@@ -28,6 +30,7 @@ public class RedCarTarget : MonoBehaviour
 
     void DestroyCar()
     {
+        Instantiate(destoyedVersion, transform.position, transform.rotation);
         Destroy(gameObject);
     }
 }
