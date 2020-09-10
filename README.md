@@ -3,13 +3,15 @@
 
 A fun little 3D game of 2 cars racing and fighting each other.
 
-> Drive on the track
+> Drive on the track.
 
 ![](CarWar1.jpg)
-> Collide with other cars
+
+> Collide with other cars.
 
 ![](CarWar2.jpg)
-> Shoot and destroy
+
+> Shoot and destroy.
 
 ![](CarWar3.jpg)
 
